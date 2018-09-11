@@ -16,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="basket.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-json/basket.json">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-loft/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-261">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -44,10 +44,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/test-loft/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="681" />
     <option name="y" value="120" />
     <option name="width" value="1169" />
@@ -81,6 +78,11 @@
               <item name="gibhub-pages" type="462c0819:PsiDirectoryNode" />
               <item name="test-json" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gibhub-pages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gibhub-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="test-loft" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -96,6 +98,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gibhub-pages\test-loft" />
       <recent name="E:\gibhub-pages" />
       <recent name="E:\gibhub-pages\test-json" />
     </key>
@@ -123,16 +126,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536587329111</updated>
       <workItem from="1536587330354" duration="743000" />
-      <workItem from="1536653080035" duration="2346000" />
+      <workItem from="1536653080035" duration="2721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3089000" />
+    <option name="totallyTimeSpent" value="3464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="120" width="1169" height="897" extended-state="0" />
-    <editor active="true" />
+    <frame x="681" y="120" width="1169" height="897" extended-state="1" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -172,6 +174,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test-loft/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test-json/basket.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -180,9 +190,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-loft/.idea/vcs.xml">
+    <entry file="file://$PROJECT_DIR$/test-loft/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-261">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
