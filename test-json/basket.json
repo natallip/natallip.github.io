@@ -1,6 +1,6 @@
 [
-  {"id": "10", "img": "../upload/goods1.png", "type": "Нож складной", "producer": "WENGER Evolution", "name": "Автобус", "descr": "13 функций, 85 мм.WEN", "price": "990", "count": "1"},
-  {"id": "20", "img": "../upload/goods2.png", "type": "Рюкзак", "producer": " WENGER «NEO»", "price": "5500", "count": "5"},
-  {"id": "30", "img": "../upload/goods3.png", "type": "Перьевая ручка", "producer": "Waterman Hemisphere Essential", "name": "Автобус", "descr": "перо: нержавеющая", "price": "50450", "count": "29"}
+  {"id": "10", "img": "./upload/goods1.png", "type": "Нож складной", "producer": "WENGER Evolution", "name": "Автобус", "descr": "13 функций, 85 мм.WEN", "price": "990", "count": "1"},
+  {"id": "20", "img": "./upload/goods2.png", "type": "Рюкзак", "producer": " WENGER «NEO»", "price": "5500", "count": "5"},
+  {"id": "30", "img": "./upload/goods3.png", "type": "Перьевая ручка", "producer": "Waterman Hemisphere Essential", "name": "Автобус", "descr": "перо: нержавеющая", "price": "50450", "count": "29"}
 ]
 
