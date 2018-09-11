@@ -1,105 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8248b334-8eee-4773-9530-7f0fe7ad6d2b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/.postcssrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/config/dev.env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/config/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/config/prod.env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/config/test.env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/index.pug" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/recruiting_test.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/recruiting_test.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/App.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/BeauSans/pfbeausanspro.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/BeauSans/pfbeausanspro.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/BeauSans/pfbeausanspro.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-700.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-700.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-700.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-700.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-700.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/fonts/Open-Sans---/open-sans-v15-cyrillic_latin-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/goods/goods1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/goods/goods2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/goods/goods3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/icons/arrow.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/icons/delete.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/flag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/home.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/htmlacademy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/icon-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/icon-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/icon-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/icon-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/icon-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/icon-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/interior.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/logo-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/map-pin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/mishka-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/photo-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/photo-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/photo-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/review.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/sprite.svg----" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/toy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/triple-set.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/img/Новая папка/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/sass/common.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/sass/fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/sass/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/sass/mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/assets/sass/vars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/components/Common/Header.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/components/Common/Menu.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/components/Common/Modal.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/pages/Basket.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/pages/Home.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/router/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/store/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/store/basket.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/store/getters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/store/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/store/mutations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/src/store/state.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/static/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/e2e/custom-assertions/elementCount.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/e2e/nightwatch.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/e2e/runner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/e2e/specs/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/unit/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/unit/jest.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/unit/setup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/test/unit/specs/HelloWorld.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/upload/goods1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/upload/goods2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/client/upload/goods3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-loft/package-lock.json" afterPath="" />
-    </list>
+    <list default="true" id="8248b334-8eee-4773-9530-7f0fe7ad6d2b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -153,7 +55,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/test-loft/client/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="681" />
     <option name="y" value="120" />
     <option name="width" value="1169" />
@@ -187,17 +89,6 @@
               <item name="gibhub-pages" type="462c0819:PsiDirectoryNode" />
               <item name="test-json" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gibhub-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gibhub-pages" type="462c0819:PsiDirectoryNode" />
-              <item name="test-loft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gibhub-pages" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gibhub-pages" type="462c0819:PsiDirectoryNode" />
-              <item name="test-loft" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +99,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/test-for-loft" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
@@ -240,23 +131,23 @@
       <option name="presentableId" value="Default" />
       <updated>1536587329111</updated>
       <workItem from="1536587330354" duration="743000" />
-      <workItem from="1536653080035" duration="303000" />
+      <workItem from="1536653080035" duration="1768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1046000" />
+    <option name="totallyTimeSpent" value="2511000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="120" width="1169" height="897" extended-state="1" />
+    <frame x="681" y="120" width="1169" height="897" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
